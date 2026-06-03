@@ -1,3 +1,5 @@
+//This script manages excess photovoltaic power by directly controlling a resistive heating element.
+//It is intended exclusively for PV surplus diversion and relies on an external thermostat for temperature control and safety cut-off.
 // ==========================================
 // CONFIGURAÇÕES DO UTILIZADOR
 // ==========================================
